@@ -1,4 +1,4 @@
-Here is a simple flow chart:
+Here is The code structure:
 
 ```mermaid
 flowchart TD
